@@ -1,0 +1,930 @@
+{
+ "apr": {
+  "items": [
+   {
+    "done": true,
+    "end": "2026-02-28",
+    "id": "apr-1",
+    "pic": "Aifaa",
+    "start": "2026-02-01",
+    "title": "Preparation (Define Report Objectives, Scope, Content and Structure)"
+   },
+   {
+    "done": true,
+    "id": "apr-2",
+    "pic": "Aifaa",
+    "start": "2026-03-12",
+    "title": "Pre-council with management"
+   },
+   {
+    "done": true,
+    "id": "apr-3",
+    "pic": "Aifaa",
+    "start": "2026-03-13",
+    "title": "Committee Meeting"
+   },
+   {
+    "done": true,
+    "end": "2026-03-31",
+    "id": "apr-4",
+    "pic": "Aifaa",
+    "start": "2026-03-16",
+    "title": "Data Collection, Analysis, Review, Validation"
+   },
+   {
+    "done": true,
+    "end": "2026-05-22",
+    "id": "apr-5",
+    "pic": "Aifaa",
+    "start": "2026-01-04",
+    "title": "1st Draft"
+   },
+   {
+    "done": true,
+    "end": "2026-07-26",
+    "id": "apr-6",
+    "pic": "Aifaa",
+    "start": "2026-06-08",
+    "title": "Editorial Chap1 - Chap 5 (Edit and refine the report content)"
+   },
+   {
+    "done": true,
+    "end": "2026-08-13",
+    "id": "apr-7",
+    "pic": "Aifaa",
+    "start": "2026-07-26",
+    "title": "Final Draft by editor Chap 1 - Chap 7 (Edit and refine the report content)"
+   },
+   {
+    "done": true,
+    "end": "2026-08-14",
+    "id": "apr-8",
+    "pic": "Aifaa",
+    "start": "2026-07-10",
+    "title": "Artwork (Design Layout)"
+   },
+   {
+    "done": true,
+    "end": "2026-08-18",
+    "id": "apr-9",
+    "pic": "Aifaa",
+    "start": "2026-08-15",
+    "title": "Approved Report"
+   },
+   {
+    "done": true,
+    "id": "apr-10",
+    "pic": "Aifaa",
+    "start": "2026-08-20",
+    "title": "Launching and Publication"
+   }
+  ],
+  "project": "APR 2026"
+ },
+ "bod": {
+  "items": [
+   {
+    "done": true,
+    "id": "bod-1",
+    "pic": "",
+    "title": "Analisa Prestasi Produktiviti & Ekonomi ST1 2026"
+   },
+   {
+    "done": true,
+    "id": "bod-2",
+    "pic": "",
+    "title": "Analisa Prestasi Produktiviti & Ekonomi ST2 2026"
+   },
+   {
+    "done": true,
+    "id": "bod-3",
+    "pic": "",
+    "title": "Analisa Prestasi Produktiviti & Ekonomi ST3 2026"
+   },
+   {
+    "done": false,
+    "id": "bod-4",
+    "pic": "",
+    "title": "Analisa Prestasi Produktiviti & Ekonomi ST4 2026"
+   }
+  ],
+  "project": "BOD"
+ },
+ "klems": {
+  "items": [
+   {
+    "done": true,
+    "end": "2026-01-16",
+    "id": "klems-1",
+    "pic": "Izzati",
+    "start": "2026-01-01",
+    "title": "Development of the KLEMS Conference 2026 portal and promotional flyer"
+   },
+   {
+    "done": true,
+    "end": "2026-01-19",
+    "id": "klems-2",
+    "pic": "Izzati",
+    "start": "2026-01-17",
+    "title": "Launch of the portal and promotion to the Asia KLEMS Committee via email and flyer"
+   },
+   {
+    "done": true,
+    "end": "2026-03-14",
+    "id": "klems-3",
+    "pic": "Izzati",
+    "start": "2026-01-20",
+    "title": "Promotion of “Call for Papers” and abstract submission deadline"
+   },
+   {
+    "done": true,
+    "id": "klems-4",
+    "pic": "Izzati",
+    "start": "2026-03-31",
+    "title": "Meeting with the Asia KLEMS Committee 1/2026"
+   },
+   {
+    "done": true,
+    "end": "2026-04-09",
+    "id": "klems-5",
+    "pic": "Izzati",
+    "start": "2026-04-01",
+    "title": "Drafting and sending of invitation letter to Danny Quah as Keynote Speaker"
+   },
+   {
+    "done": true,
+    "end": "2026-04-20",
+    "id": "klems-6",
+    "pic": "Izzati",
+    "start": "2026-04-01",
+    "title": "Abstract review for the 7th Asia KLEMS Conference 2026 by the Asia KLEMS Committee"
+   },
+   {
+    "done": true,
+    "end": "2026-04-17",
+    "id": "klems-7",
+    "pic": "Izzati",
+    "start": "2026-04-15",
+    "title": "Meeting with Prof. Bart regarding TES and Keynote Speaker arrangements"
+   },
+   {
+    "done": true,
+    "end": "2026-04-27",
+    "id": "klems-8",
+    "pic": "Izzati",
+    "start": "2026-04-24",
+    "title": "Notification of paper acceptance to participants"
+   },
+   {
+    "done": true,
+    "id": "klems-9",
+    "pic": "Izzati",
+    "start": "2026-05-04",
+    "title": "Meeting with the Asia KLEMS Committee 2/2026"
+   },
+   {
+    "done": true,
+    "end": "2026-08-01",
+    "id": "klems-10",
+    "pic": "Izzati",
+    "start": "2026-05-31",
+    "title": "Final paper submission for international paper"
+   },
+   {
+    "done": true,
+    "id": "klems-11",
+    "pic": "Izzati",
+    "start": "2026-07-14",
+    "title": "Sending invitation letter to Dato Sri Mustapa Mohamed as Keynote Speaker"
+   },
+   {
+    "done": true,
+    "end": "2026-08-19",
+    "id": "klems-12",
+    "pic": "Izzati",
+    "start": "2026-08-16",
+    "title": "Keynote paper submission"
+   },
+   {
+    "done": true,
+    "end": "2026-08-19",
+    "id": "klems-13",
+    "pic": "Izzati",
+    "start": "2026-08-16",
+    "title": "Slide presentation submission from international paper"
+   },
+   {
+    "done": true,
+    "end": "2026-08-21",
+    "id": "klems-14",
+    "pic": "Izzati",
+    "start": "2026-08-20",
+    "title": "22 international paper presentation"
+   },
+   {
+    "done": true,
+    "id": "klems-15",
+    "pic": "Nor Akma",
+    "start": "2026-08-20",
+    "title": "12 local paper presentation"
+   },
+   {
+    "done": true,
+    "id": "klems-16",
+    "pic": "Izzati",
+    "start": "2026-08-20",
+    "title": "Launching Ceremony : The 7th Asia KLEMS Conference 2026"
+   },
+   {
+    "done": true,
+    "id": "klems-17",
+    "pic": "Izzati",
+    "start": "2026-08-21",
+    "title": "Closing Ceremony"
+   },
+   {
+    "done": true,
+    "id": "klems-18",
+    "pic": "Izzati",
+    "start": "2026-08-24",
+    "title": "Thank you note"
+   }
+  ],
+  "project": "KLEMS"
+ },
+ "mpb": {
+  "items": [
+   {
+    "done": true,
+    "id": "mpb-1",
+    "pic": "Sarah Afiqah",
+    "start": "2026-01-22",
+    "title": "Sesi Perbicangan Cadangan Pelaksanaan Kajian MPB 2.0 kepada Pihak Pengurusan"
+   },
+   {
+    "done": true,
+    "end": "2026-02-04",
+    "id": "mpb-2",
+    "pic": "Sarah Afiqah",
+    "start": "2026-02-03",
+    "title": "Bengkel Pemuktamadan Pelaksanaan Kajian Kerangka dan Pelan Hala Tuju Produktiviti Negara"
+   },
+   {
+    "done": true,
+    "id": "mpb-3",
+    "pic": "Sarah Afiqah",
+    "start": "2026-02-10",
+    "title": "Sesi Perbincangan Kajian Pasaran bersama BCG: Kajian Pemacu Produktiviti MPB 2.0"
+   },
+   {
+    "done": true,
+    "id": "mpb-4",
+    "pic": "Sarah Afiqah",
+    "start": "2026-02-13",
+    "title": "Taklimat Pembangunan dan Pelaksanaan Kerangka dan Pelan Hala Tuju Produktiviti Nasional 2026-2035"
+   },
+   {
+    "done": true,
+    "id": "mpb-5",
+    "pic": "Sarah Afiqah",
+    "start": "2026-02-19",
+    "title": "Sesi Perbincangan Kajian Pasaran bersama Deloitte Consulting: Kajian M&E Produktiviti MPB 2.0"
+   },
+   {
+    "done": true,
+    "id": "mpb-6",
+    "pic": "Sarah Afiqah",
+    "start": "2026-03-02",
+    "title": "Kunjungan Hormat MPB 2.0 ke Pejabat YBSS Penang"
+   },
+   {
+    "done": true,
+    "id": "mpb-7",
+    "pic": "Sarah Afiqah",
+    "start": "2026-03-03",
+    "title": "Kunjungan Hormat MPB 2.0 ke Pejabat YBSS Perlis"
+   },
+   {
+    "done": true,
+    "id": "mpb-8",
+    "pic": "Sarah Afiqah",
+    "start": "2026-03-04",
+    "title": "Kunjungan Hormat MPB 2.0 ke Pejabat UPEN Melaka"
+   },
+   {
+    "done": true,
+    "id": "mpb-9",
+    "pic": "Sarah Afiqah",
+    "start": "2026-03-06",
+    "title": "Kunjungan Hormat MPB 2.0 ke Pejabat TSUK Pahang"
+   },
+   {
+    "done": true,
+    "id": "mpb-10",
+    "pic": "Sarah Afiqah",
+    "start": "2026-03-09",
+    "title": "Sesi Perbincangan Progress Kerja Negeri bersama Pejabat Wilayah"
+   },
+   {
+    "done": true,
+    "id": "mpb-11",
+    "pic": "Sarah Afiqah",
+    "start": "2026-03-10",
+    "title": "Kunjungan Hormat MPB 2.0 ke Pejabat TSUK Perak"
+   },
+   {
+    "done": true,
+    "id": "mpb-12",
+    "pic": "Sarah Afiqah",
+    "start": "2026-03-11",
+    "title": "Sesi Pembentangan dalam MMK Pulau Pinang bagi Pelaksanaan MPB 2.0 kepada YAB Ketua Menteri Pulau Pinang"
+   },
+   {
+    "done": true,
+    "id": "mpb-13",
+    "pic": "Sarah Afiqah",
+    "start": "2026-03-12",
+    "title": "Sesi Penerangan Pelaksanaan MPB 2.0 dalam Kajian Pengukuran dan Garis Asas Produktiviti peringkat Negeri"
+   },
+   {
+    "done": true,
+    "id": "mpb-14",
+    "pic": "Sarah Afiqah",
+    "start": "2026-03-12",
+    "title": "Sesi Perbincangan bersama wakil World Bank: Kajian Pemacu Produktiviti MPB 2.0"
+   },
+   {
+    "done": true,
+    "id": "mpb-15",
+    "pic": "Sarah Afiqah",
+    "start": "2026-03-16",
+    "title": "Kunjungan Hormat MPB 2.0 ke Pejabat TSUK Selangor"
+   },
+   {
+    "done": true,
+    "id": "mpb-16",
+    "pic": "Sarah Afiqah",
+    "start": "2026-03-17",
+    "title": "Bengkel Pembangunan Framework Pelan Hala Tuju Produktiviti Nasional 2026-2035"
+   },
+   {
+    "done": true,
+    "id": "mpb-17",
+    "pic": "Sarah Afiqah",
+    "start": "2026-04-08",
+    "title": "Mesyuarat JK Kerja MPC MPB 2.0"
+   },
+   {
+    "done": true,
+    "id": "mpb-18",
+    "pic": "Sulia Saari",
+    "start": "2026-04-20",
+    "title": "Mesyuarat JK Kerja KE MPB 2.0"
+   },
+   {
+    "done": true,
+    "id": "mpb-19",
+    "pic": "Sulia Saari",
+    "start": "2026-06-19",
+    "title": "Mesyuarat JK Teknikal MPB 2.0"
+   },
+   {
+    "done": true,
+    "id": "mpb-20",
+    "pic": "Sarah Afiqah",
+    "start": "2026-07-14",
+    "title": "Bengkel Pembangunan Kandungan Laporan Interim MPB 2.0"
+   },
+   {
+    "done": true,
+    "id": "mpb-21",
+    "pic": "Sarah Afiqah",
+    "start": "2026-07-21",
+    "title": "Sesi Perbincangan Kemajuan Semasa Kajian Kerangka dan Pelan Hala Tuju Produktiviti Nasional bersama BEM KE"
+   },
+   {
+    "done": true,
+    "id": "mpb-22",
+    "pic": "Ahmad Mirza",
+    "start": "2026-07-27",
+    "title": "Kick Off Meeting bersama BCG"
+   },
+   {
+    "done": true,
+    "id": "mpb-23",
+    "pic": "Yasmin Azra",
+    "start": "2026-07-29",
+    "title": "Bengkel Pembangunan Rangka Kerja PMR dan Persediaan SLU 3"
+   },
+   {
+    "done": true,
+    "id": "mpb-24",
+    "pic": "Sulia Saari",
+    "start": "2026-07-31",
+    "title": "Mesyuarat JK PEMANDU Bil.1/2026"
+   },
+   {
+    "done": true,
+    "end": "2026-08-16",
+    "id": "mpb-25",
+    "pic": "Ahmad Mirza",
+    "start": "2026-08-14",
+    "title": "Bengkel Persediaan Sekretariat Program untuk SLU bersama Pakar The Productivity Institute, United Kingdom"
+   },
+   {
+    "done": true,
+    "end": "2026-08-19",
+    "id": "mpb-26",
+    "pic": "Ahmad Muazamil",
+    "start": "2026-08-17",
+    "title": "SLU Strategik Penandaarasan bersama TPI, UK"
+   },
+   {
+    "done": true,
+    "id": "mpb-27",
+    "pic": "Ahmad Mirza",
+    "start": "2026-08-21",
+    "title": "MESYUARAT BERSAMA JABATAN PERANGKAAN MALAYSIA (DOSM) UNTUK MEMBINCANGKAN KEPERLUAN DATA DAN PERANCANGAN HALA TUJU NEXUS PRODUKTIVITI BAGI PEMBANGUNAN KAJIAN KERANGKA DAN PELAN HALA TUJU PRODUKTIVITI N"
+   },
+   {
+    "done": true,
+    "id": "mpb-28",
+    "pic": "Sarah Afiqah",
+    "start": "2026-08-27",
+    "title": "Sesi Perbincangan Slaid Pembentangan Interim Bil.2/206"
+   },
+   {
+    "done": true,
+    "id": "mpb-29",
+    "pic": "Ahmad Mirza",
+    "start": "2026-09-04",
+    "title": "Session with BCG on Benchmarking Findings"
+   },
+   {
+    "done": true,
+    "id": "mpb-30",
+    "pic": "Ahamd Mirza",
+    "start": "2026-09-09",
+    "title": "Interactive Session on International Benchmarking"
+   },
+   {
+    "done": true,
+    "id": "mpb-31",
+    "pic": "Sarah Afiqah",
+    "start": "2026-09-11",
+    "title": "Mesyuarat JK Teknikal MPB 2.0 Bil.2/2026"
+   },
+   {
+    "done": true,
+    "id": "mpb-32",
+    "pic": "Sarah Afiqah",
+    "start": "2026-09-15",
+    "title": "Mesyuarat Sesi Perbincangan Penyediaan Kajian Kerangka Produktiviti (Persekitaran Perniagaan)"
+   },
+   {
+    "done": true,
+    "id": "mpb-33",
+    "pic": "Sarah Afiqah",
+    "start": "2026-09-17",
+    "title": "Sesi Perbincangan Persiapan Penganjuran Bengkel Pembangunan Pelan Hala Tuju Produktiviti bersama Kerajaan Negeri"
+   },
+   {
+    "done": true,
+    "end": "2026-09-23",
+    "id": "mpb-34",
+    "pic": "Sarah Afiqah",
+    "start": "2026-09-21",
+    "title": "BENGKEL HALA TUJU PRODUKTIVITI NEGERI"
+   },
+   {
+    "done": true,
+    "id": "mpb-35",
+    "pic": "Sarah Afiqah",
+    "start": "2026-09-24",
+    "title": "PRE-COUNCIL MESYUARAT JAWATANKUASA TEKNIKAL KAJIAN KERANGKA DAN PELAN HALA TUJU PRODUKTIVITI BIL.3/2026"
+   },
+   {
+    "done": true,
+    "id": "mpb-36",
+    "pic": "Sarah Afiqah",
+    "start": "2026-09-25",
+    "title": "MESYUARAT JAWATANKUASA TEKNIKAL KAJIAN KERANGKA DAN PELAN HALA TUJU PRODUKTIVITI BIL. 3/2026"
+   },
+   {
+    "done": true,
+    "id": "mpb-37",
+    "pic": "Sarah Afiqah",
+    "start": "2026-10-01",
+    "title": "BENGKEL PERBINCANGAN HASIL DAPATAN MESYUARAT JAWATANKUASA TEKNIKAL BIL. 2/2026 BAGI PEMBANGUNAN KAJIAN KERANGKA DAN PELAN HALA TUJU PRODUKTIVITI NASIONAL 2035"
+   },
+   {
+    "done": true,
+    "id": "mpb-38",
+    "pic": "Sulia Saari",
+    "start": "2026-10-16",
+    "title": "MESY JK PEMANDU MPB KE Bil.2/2026"
+   },
+   {
+    "done": true,
+    "end": "2026-10-24",
+    "id": "mpb-39",
+    "pic": "Yasmin Azra",
+    "start": "2026-10-22",
+    "title": "BENGKEL STRATEGIK PERINCIAN AKTIVITI EKONOMI DI BAWAH SEKTOR KEUTAMAAN BAGI MEMPERCEPAT PERTUMBUHAN PRODUKTIVITI"
+   }
+  ],
+  "project": "Pelan Tindakan MPB 2.0"
+ },
+ "nimp": {
+  "items": [
+   {
+    "done": true,
+    "end": "2026-02-06",
+    "id": "nimp-1",
+    "pic": "Nasruddin",
+    "start": "2026-02-05",
+    "title": "Sesi Analisis Input-Output Dalam Perancangan Ekonomi"
+   },
+   {
+    "done": true,
+    "id": "nimp-2",
+    "pic": "Nasruddin",
+    "start": "2026-02-26",
+    "title": "Mesyuarat Jawatankuasa Penilaian Perunding (JPP1) Kajian Pengukuran Dan Penilaian Garis Asas Bagi Pembangunan Pelan Hala Tuju (ROADMAP) Produktiviti Negeri Berprestasi Rendah"
+   },
+   {
+    "done": true,
+    "id": "nimp-3",
+    "pic": "Nasruddin",
+    "start": "2026-03-10",
+    "title": "Bengkel Strategi Persekutuan–Negeri Untuk Lonjakan Produktiviti Industri"
+   },
+   {
+    "done": true,
+    "id": "nimp-4",
+    "pic": "Nasruddin",
+    "start": "2026-03-16",
+    "title": "Mesyuarat Jawatankuasa Penilaian Perunding (JPP2) Kajian Pengukuran Dan Penilaian Garis Asas Bagi Pembangunan Pelan Hala Tuju (ROADMAP) Produktiviti Negeri Berprestasi Rendah"
+   },
+   {
+    "done": true,
+    "id": "nimp-5",
+    "pic": "Nasruddin",
+    "start": "2026-03-17",
+    "title": "Mesyuarat Jawatankuasa Pemandu Pelaksanaan Kajian Pengukuran Dan Penilaian Garis Asas Bagi Pembangunan Pelan Hala Tuju (Roadmap) Produktiviti Negeri Berprestasi Rendah Bilangan 2/2026."
+   },
+   {
+    "done": true,
+    "id": "nimp-6",
+    "pic": "Nasruddin",
+    "start": "2026-04-03",
+    "title": "Sesi Perbincangan Dapatan Analisis Input-Output Negeri"
+   },
+   {
+    "done": true,
+    "end": "2026-04-09",
+    "id": "nimp-7",
+    "pic": "Nasruddin",
+    "start": "2026-04-08",
+    "title": "Bengkel Pengurusan Pelaksanaan Baseline Negeri Berprestasi Rendah"
+   },
+   {
+    "done": true,
+    "end": "2026-05-20",
+    "id": "nimp-8",
+    "pic": "Nasruddin",
+    "start": "2026-04-29",
+    "title": "Sesi Libat Urus Program Transformasi Produktiviti Industri di 14 Negeri"
+   },
+   {
+    "done": true,
+    "id": "nimp-9",
+    "pic": "Nasruddin",
+    "start": "2026-07-06",
+    "title": "Mesyuarat Jawatankuasa Teknikal Kajian Pengukuran Dan Penilaian Garis Asas Bagi Pembangunan Pelan Hala Tuju (ROADMAP) Produktiviti Negeri Berprestasi Rendah Bil 1/2026"
+   },
+   {
+    "done": true,
+    "id": "nimp-10",
+    "pic": "Nasruddin",
+    "start": "2026-07-09",
+    "title": "Jawatankuasa Pemandu Kajian Pengukuran Dan Penilaian Garis Asas Bagi Pembangunan Pelan Hala Tuju (ROADMAP) Produktiviti Negeri Berprestasi Rendah) Bil. 2/2026"
+   },
+   {
+    "done": true,
+    "id": "nimp-11",
+    "pic": "Nasruddin",
+    "start": "2026-08-07",
+    "title": "MESYUARAT JAWATANKUASA PENILAIAN PERUNDING (JPP) KAJIAN ANALISIS HUBUNG KAIT EKONOMI, RANTAIAN NILAI DAN PRODUKTIVITI INDUSTRI MENGGUNAKAN PENDEKATAN INPUT-OUTPUT"
+   },
+   {
+    "done": true,
+    "id": "nimp-12",
+    "pic": "Nasruddin",
+    "start": "2026-09-11",
+    "title": "Sesi Perbincangan Dapatan Penilaian Tender Bagi Persediaan Mesyuarata Jawatankuasa Penilaian Perunding 2 (JPP2)"
+   },
+   {
+    "done": true,
+    "id": "nimp-13",
+    "pic": "Nasruddin",
+    "start": "2026-09-14",
+    "title": "Mesyuarat Jawatankuasa Penilaian Perunding (JPP2) Bagi Kajian Analisis Hubung Kait Ekonomi, Rantaian Nilai Dan Produktiviti Industri Menggunakan Pendekatan Input-Output"
+   },
+   {
+    "done": true,
+    "id": "nimp-14",
+    "pic": "Nasruddin",
+    "start": "2026-09-18",
+    "title": "Lembaga Perolehan Bil.3/2026"
+   },
+   {
+    "done": true,
+    "id": "nimp-15",
+    "pic": "Nasruddin",
+    "start": "2026-09-30",
+    "title": "Mesyuarat Jawatankuasa Penilaian Perunding (JPP2) Bagi Kajian Analisis Hubung Kait Ekonomi, Rantaian Nilai Dan Produktiviti Industri Menggunakan Pendekatan Input-Output"
+   },
+   {
+    "done": true,
+    "id": "nimp-16",
+    "pic": "Nasruddin",
+    "start": "2026-10-06",
+    "title": "Lembaga Perolehan Khas"
+   },
+   {
+    "done": true,
+    "id": "nimp-17",
+    "pic": "Nasruddin",
+    "start": "2026-10-13",
+    "title": "KICK-OFF MEETING: PROJEK KAJIAN ANALISIS HUBUNGKAIT EKONOMI DAN RANTAIAN NILAIAN MENGGUNAKAN PENDEKATAN INPUT-OUTPUT"
+   },
+   {
+    "done": true,
+    "id": "nimp-18",
+    "pic": "Nasruddin",
+    "start": "2026-10-15",
+    "title": "Pelanjutan Tempoh Kajian Pengukuran Dan Penilaian Garis Asas Bagi Pembangunan Pelan Hala Tuju (ROADMAP) Produktiviti Negeri Berprestasi Rendah)"
+   },
+   {
+    "done": true,
+    "id": "nimp-19",
+    "pic": "Nasruddin",
+    "start": "2026-11-10",
+    "title": "Mesyuarat JK Pemandu Kajian Pengukuran Dan Penilaian Garis Asas Bagi Pembangunan Pelan Hala Tuju (ROADMAP) Produktiviti Negeri Berprestasi Rendah) Bil.3/2026"
+   }
+  ],
+  "project": "Program NIMP"
+ },
+ "rdci": {
+  "items": [
+   {
+    "done": true,
+    "id": "rdci-1",
+    "pic": "Rozitah",
+    "start": "2026-01-14",
+    "title": "MESYUARAT PEMANTAUAN GERAN PRODUKTIVITI BIL. 1/2026"
+   },
+   {
+    "done": true,
+    "end": "2026-01-26",
+    "id": "rdci-2",
+    "pic": "Nasruddin",
+    "start": "2026-01-25",
+    "title": "LAWATAN TAPAK BAGI PROJEK INTEGRATED FARMING SYSTEM FOR SUSTAINABLE SEAWEED CULTIVATION"
+   },
+   {
+    "done": true,
+    "id": "rdci-3",
+    "pic": "Nasruddin",
+    "start": "2026-03-05",
+    "title": "Lawatan Tapak Projek Transparent Graphene Anti Corrosion Coating"
+   },
+   {
+    "done": true,
+    "id": "rdci-4",
+    "pic": "Nor Akma",
+    "start": "2026-04-03",
+    "title": "Mesyuarat Pemantauan Geran Produktiviti Bil. 2/2026"
+   },
+   {
+    "done": true,
+    "id": "rdci-5",
+    "pic": "Nasruddin",
+    "start": "2026-04-28",
+    "title": "Workshop on Develpoment of Collaborative R&D Model"
+   },
+   {
+    "done": true,
+    "id": "rdci-6",
+    "pic": "Nasruddin",
+    "start": "2026-06-15",
+    "title": "LAWATAN TAPAK BAGI PROJEK Multiplexed Real – Time PCR Tropical Diseases"
+   },
+   {
+    "done": true,
+    "id": "rdci-7",
+    "pic": "Nasruddin",
+    "start": "2026-06-16",
+    "title": "LAWATAN TAPAK BAGI PROJEK Development & Production Automation of Hydrophilic Coated Foley Catheters"
+   },
+   {
+    "done": true,
+    "id": "rdci-8",
+    "pic": "Nasruddin",
+    "start": "2026-07-10",
+    "title": "LAWATAN TAPAK PROJEK SUSTAINABLE FRUIT WASTE TREATMENT FOR MICROALGAE CULTIVATION AND HIGH-VALUE FUNCTIONAL BIOMOLECULES RECOVERY"
+   },
+   {
+    "done": true,
+    "id": "rdci-9",
+    "pic": "Nasruddin",
+    "start": "2026-07-21",
+    "title": "LAWATAN TAPAK PROJEK Advanced Electron Source Gun Development for Semiconductor Front End Lithography Tools in particular Critical Dimension Scanning Electron Microscope (CDSEM)"
+   },
+   {
+    "done": true,
+    "id": "rdci-10",
+    "pic": "Iqbal",
+    "start": "2026-07-23",
+    "title": "MESYUARAT PEMANTAUAN GERAN PRODUKTIVITI BIL. 3/2026"
+   },
+   {
+    "done": true,
+    "end": "2026-07-25",
+    "id": "rdci-11",
+    "pic": "Nasruddin",
+    "start": "2026-07-24",
+    "title": "Sesi Libat Urus Program MPC-UMPSA Makerspace"
+   },
+   {
+    "done": true,
+    "id": "rdci-12",
+    "pic": "Nasruddin",
+    "start": "2026-08-03",
+    "title": "LAWATAN TAPAK PROJEK PERFECT FORCE CLAMP DESIGN & DEVELOPMENT"
+   },
+   {
+    "done": true,
+    "id": "rdci-13",
+    "pic": "Iqbal",
+    "start": "2026-09-03",
+    "title": "Mesyuarat Pemantauan Geran Produktiviti Bil. 4/2026."
+   }
+  ],
+  "project": "MPC Steinbeis & RDCI"
+ },
+ "rkbn9": {
+  "items": [
+   {
+    "done": true,
+    "id": "rkbn9-1",
+    "pic": "Izzati",
+    "start": "2026-02-12",
+    "title": "Sesi Perbincangan Strategik Inisiatif Reformasi Kerenah Birokrasi Negeri Sembilan 2026"
+   },
+   {
+    "done": true,
+    "id": "rkbn9-2",
+    "pic": "Shezlina",
+    "start": "2026-03-16",
+    "title": "Taklimat RKB Pelesenan bersama Ketua-Ketua Projek RKB Pelesenan Negeri Sembilan"
+   },
+   {
+    "done": true,
+    "id": "rkbn9-3",
+    "pic": "Shezlina",
+    "start": "2026-03-17",
+    "title": "Taklimat RKB Bukan Pelesenan bersama Ketua-Ketua Projek RKB Bukan Pelesenan Negeri Sembilan"
+   },
+   {
+    "done": true,
+    "id": "rkbn9-4",
+    "pic": "Izzati",
+    "start": "2026-04-16",
+    "title": "Bengkel RKB Pelesenan Negeri Sembilan"
+   },
+   {
+    "done": true,
+    "id": "rkbn9-5",
+    "pic": "Izzati",
+    "start": "2026-05-05",
+    "title": "Bengkel RKB Bukan Pelesenan Negeri Sembilan"
+   },
+   {
+    "done": true,
+    "end": "2026-07-16",
+    "id": "rkbn9-6",
+    "pic": "Izzati",
+    "start": "2026-07-15",
+    "title": "Sesi Semakan Laporan Projek Reformasi Kerenah Birokrasi (RKB) Negeri Sembilan 2026 (9 Projek Siap)"
+   },
+   {
+    "done": true,
+    "end": "2026-09-07",
+    "id": "rkbn9-7",
+    "pic": "Shezlina/Izzati",
+    "start": "2026-08-28",
+    "title": "Penambahbaikan 9 Laporan Projek Siap RKB Negeri Sembilan"
+   },
+   {
+    "done": true,
+    "end": "2026-09-25",
+    "id": "rkbn9-8",
+    "pic": "Shezlina/Izzati",
+    "start": "2026-09-24",
+    "title": "Sesi Coaching dan Bimbingan Pelaporan Slaid Projek RKB Negeri Sembilan (16 Projek)"
+   },
+   {
+    "done": true,
+    "end": "2026-10-08",
+    "id": "rkbn9-9",
+    "pic": "Izzati",
+    "start": "2026-10-06",
+    "title": "Konvensyen RKB Wilayah Tengah 2026"
+   },
+   {
+    "done": true,
+    "end": "2026-10-29",
+    "id": "rkbn9-10",
+    "pic": "Shezlina/Izzati",
+    "start": "2026-10-28",
+    "title": "Pembentangan 4 projek RKB Negeri Sembilan di Persidangan Nasional RKB 2026"
+   },
+   {
+    "done": false,
+    "id": "rkbn9-11",
+    "pic": "Izzati",
+    "start": "2026-12-11",
+    "title": "Bengkel Pemantapan Projek RKB Negeri Sembilan"
+   },
+   {
+    "done": false,
+    "end": "2026-11-17",
+    "id": "rkbn9-12",
+    "pic": "Shezlina",
+    "start": "2026-11-16",
+    "title": "Bengkel Inisiatif Reformasi Kerenah Birokrasi & Peraturan Tangkas di Peringkat Pemajuan Kawasan Perindustrian di Negeri Sembilan"
+   }
+  ],
+  "project": "RKB Negeri Sembilan"
+ },
+ "rkbsel": {
+  "items": [
+   {
+    "done": true,
+    "id": "rkbsel-1",
+    "pic": "Izzati",
+    "start": "2026-02-09",
+    "title": "Sesi Perbincangan Strategik Inisiatif Reformasi Kerenah Birokrasi Negeri Selangor"
+   },
+   {
+    "done": true,
+    "id": "rkbsel-2",
+    "pic": "Izzati",
+    "start": "2026-06-03",
+    "title": "Bengkel Bimbingan RKB Negeri Selangor 2026"
+   },
+   {
+    "done": true,
+    "id": "rkbsel-3",
+    "pic": "Izzati",
+    "start": "2026-07-21",
+    "title": "Productivity Intelligence Innova-thon 2026"
+   },
+   {
+    "done": true,
+    "end": "2026-08-13",
+    "id": "rkbsel-4",
+    "pic": "Shezlina/Izzati",
+    "start": "2026-08-11",
+    "title": "Sesi Coaching dan Bimbingan Pelaporan Slaid Projek RKB Negeri Selangor (20 Projek)"
+   },
+   {
+    "done": true,
+    "end": "2026-10-08",
+    "id": "rkbsel-5",
+    "pic": "Izzati",
+    "start": "2026-10-06",
+    "title": "Konvensyen RKB Wilayah Tengah 2026"
+   },
+   {
+    "done": true,
+    "end": "2026-10-29",
+    "id": "rkbsel-6",
+    "pic": "Shezlina/Izzati",
+    "start": "2026-10-28",
+    "title": "Pembentangan 4 projek RKB Selangor di Persidangan Nasional RKB 2026"
+   },
+   {
+    "done": false,
+    "end": "2026-11-14",
+    "id": "rkbsel-7",
+    "pic": "",
+    "start": "2026-11-12",
+    "title": "Bengkel Pengurusan Perlaksanaan Projek RKB Menggunakan Kecerdasan Buatan (AI)"
+   }
+  ],
+  "project": "RKB Selangor"
+ }
+}
